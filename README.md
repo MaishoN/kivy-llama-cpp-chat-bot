@@ -1,4 +1,5 @@
-- needs a llama.cpp build (+set path to it in config.ini)
-- needs a gguf model (models folder by default +set file name in config.ini)
+- needs a llama.cpp build (+set path to llama-cli in config.ini)
+- needs a .gguf model (models folder by default +set file name in config.ini)
+- technically needs other tweaks to config.ini options to work properly with a specific model (is set up for gemma right now) 
 - needs kivymd (pip install kivymd)
 - idk what python version but I used 3.11
