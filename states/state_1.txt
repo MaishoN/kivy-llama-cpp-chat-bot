@@ -1,0 +1,26 @@
+<|im_start|>user hello<|im_end|>
+<|im_start|>assistant Hello! 👋  
+
+What can I do for you today? 😊<|im_end|>
+<|im_start|>user tell a story about objective oriented programming<|im_end|>
+<|im_start|>assistant In the bustling city of Codeville, lived a programmer named Alice. She was tired of writing clunky, spaghetti-code that was hard to understand and even harder to maintain. 
+
+One day, she stumbled upon a wise old guru named Objector, who taught her the ways of Objective-Oriented Programming (OOP). 
+
+"Forget about writing code like a tangled mess," Objector boomed, "Think in terms of objects!"
+
+Alice was intrigued. Objector explained that objects are like little self-contained worlds, each with their own data (properties) and actions (methods). 
+
+"Imagine a 'Car' object," Objector said, "It has properties like color, model, and speed, and methods like start(), accelerate(), and brake()."
+
+Alice, a lover of cars, quickly grasped the concept. She started building her program around objects. Each car had its own unique identity, with its own color, model, and speed. She even created a 'Driver' object that could control the car using its methods.
+
+Soon, her program was a symphony of interacting objects. The cars could drive, accelerate, and brake, all within their own little worlds. And because each object was self-contained, Alice could easily add new features or modify existing ones without disrupting the whole program.
+
+Alice was thrilled! Her code was now clean, modular, and easy to understand. 
+
+"Thanks to OOP," she exclaimed, "My program is like a well-oiled machine!"
+
+Objector chuckled, "That's the power of OOP, my dear Alice. It allows you to build complex systems from simple, reusable objects. Remember, the key is to think in terms of objects and their interactions."
+
+And so, Alice continued to build amazing programs, using the principles of OOP to create elegant and efficient solutions to any coding challenge. The city of Codeville was forever changed, thanks to Alice and the wisdom of Objector.<|im_end|>
