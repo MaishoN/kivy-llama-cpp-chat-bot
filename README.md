@@ -1,1 +1,4 @@
-it's kinda hilarious that this is supposed to be a funny python project, but python takes such a small portion of used languages (i probably shouldn't have commited an entire llama.cpp build should i)
+- needs a llama.cpp build (+set path to it in config.ini)
+- needs a gguf model (models folder by default +set file name in config.ini)
+- needs kivymd (pip install kivymd)
+- idk what python version but I used 3.11
